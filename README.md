@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hasan Abbas Sorathiya</h1>
-<h3 align="center">A passionate Senior Flutter Developer</h3>
+<h3 align="center">A Passionate Senior Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanabbassorathiya&label=Profile%20views&color=0e75b6&style=flat" alt="hasanabbassorathiya" /> </p>
 
