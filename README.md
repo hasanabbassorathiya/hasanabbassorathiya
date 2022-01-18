@@ -45,6 +45,14 @@
   <br>
 <h4>MAMADO ISLAMIC APP</h4> 
 <h5 align="left">(Community app which contains Supplications (can be played Online, Holy Quran, Calender.. etc)</h4>
+<br>
+  <h3> Download Link: </h3>
+  
+<h5>  
+Play Store: https://play.google.com/store/apps/details?id=com.mamadoislamic.app
+<br>
+IOS: https://apps.apple.com/in/app/mamado-islamic-app/id1575713386
+  </h5>
  
 <tr>
     <td><img src="https://is2-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/0f/f3/d6/0ff3d6a4-ca98-fdb1-0cd4-871a63fe1821/bdfb8c0a-5742-4c43-a90c-1b6be2ee4cd4_1-6.5_inch_-_iPhone_XS_Max-screen__1.jpg/230x0w.webp"></td>
@@ -55,4 +63,21 @@
 
 
 
+  <h4>14 Stars</h4> 
+<h5 align="left">(Community app which contains Supplications (can be played Online, Holy Quran, Calender.. etc)</h4>
+<br>
+  <h3> Download Link: </h3>
   
+<h5>  
+Play Store: https://play.google.com/store/apps/details?id=com.zain.stars14
+<br>
+IOS: https://apps.apple.com/in/app/14-stars/id1526359119
+  </h5>
+  <br>
+   <table>
+<tr>
+    <td><img src="https://is2-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/75/65/ca/7565ca4c-5708-19a6-1fd2-6c7423be54ec/6a62700f-85d7-4e2a-ace7-4be58a1c6deb_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2020-08-08_at_14.35.48.png/230x0w.webp"></td>
+    <td><img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource124/v4/bb/15/c1/bb15c1b3-feed-a2c1-8ee8-772432dfabde/c42e9f1f-a692-4fe3-b40a-49732c39dd1b_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2020-08-08_at_14.35.56.png/230x0w.webp"></td>
+    <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/a6/b8/02/a6b802fb-4461-2b9d-a604-e2b93ad0618b/d9be63ae-a768-4ac2-a718-de92a05858e2_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2020-08-08_at_14.36.00.png/230x0w.webp"></td>
+  </tr>
+  </table>
