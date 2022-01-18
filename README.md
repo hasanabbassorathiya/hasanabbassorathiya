@@ -30,8 +30,29 @@
 
 <h3 align="left">Projects Highlight's</h3>
 <br><br>
-
-<img src="https://github.com/hasanabbassorathiya/hasanabbassorathiya/blob/main/maa's%20kitchen.gif">
 <br>
 <h4>Maa's Kitchen</h4> 
 <h5 align="left">(Data coming from WordPress Website https://mamadoskitchen.com/)</h4> 
+
+<img src="https://github.com/hasanabbassorathiya/hasanabbassorathiya/blob/main/maa's%20kitchen.gif">
+
+
+<br><br>
+
+<table>
+  
+  
+  <br>
+<h4>MAMADO ISLAMIC APP</h4> 
+<h5 align="left">(Community app which contains Supplications (can be played Online, Holy Quran, Calender.. etc)</h4>
+ 
+<tr>
+    <td><img src="https://is2-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/0f/f3/d6/0ff3d6a4-ca98-fdb1-0cd4-871a63fe1821/bdfb8c0a-5742-4c43-a90c-1b6be2ee4cd4_1-6.5_inch_-_iPhone_XS_Max-screen__1.jpg/230x0w.webp"></td>
+    <td><img src="https://is5-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/73/17/76/73177664-1ddb-2633-8e60-68ad0fee24ec/611dcb03-66b5-43fb-9360-1f0dd8302925_2-6.5_inch_-_iPhone_XS_Max-screen__2.jpg/230x0w.webp"></td>
+    <td><img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/e7/46/e3/e746e3db-3c06-6b4e-573c-d33ad3e912df/3d129fc5-ca18-41dc-8bcc-2bf9fe56369f_3-6.5_inch_-_iPhone_XS_Max-screen__3.jpg/230x0w.webp"></td>
+  </tr>
+  </table>
+
+
+
+  
