@@ -81,3 +81,22 @@ IOS: https://apps.apple.com/in/app/14-stars/id1526359119
     <td><img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource114/v4/a6/b8/02/a6b802fb-4461-2b9d-a604-e2b93ad0618b/d9be63ae-a768-4ac2-a718-de92a05858e2_Simulator_Screen_Shot_-_iPhone_11_Pro_Max_-_2020-08-08_at_14.36.00.png/230x0w.webp"></td>
   </tr>
   </table>
+
+<br><br>
+
+  <h3>KSI Jamat Mumbai</h3> 
+<h5 align="left">(This App contains History and Documentary of Jamat(Community) including existing and Past Teams, along with latest News feature, Sad demise news, Personalities, Donation via PayU money within the app and much more)</h4>
+<br>
+  <h3> Download Link: </h3>
+  
+<h5>  
+Play Store: https://play.google.com/store/apps/details?id=app.ksijamat.org
+  </h5>
+  <br>
+   <table>
+<tr>
+    <td><img src="https://play-lh.googleusercontent.com/iRtMtGyDG_h4LS4MsYR0y5tF6sXPLHDKjjMIJwz1FiqAyKBQTg-YwSNX-OfTeoZKj0I2=w720-h310-rw"></td>
+    <td><img src="https://play-lh.googleusercontent.com/e5T68ieGxm1xxAp4dXByqiUbhQ5CHoOLkGtGXjrcoGAKcj2UY5vivZNiZMqH2P5AOrU=w720-h310-rw"></td>
+    <td><img src="https://play-lh.googleusercontent.com/KsLZYVOgLGuDsxcNpdN3uX_g2-O4LecOZsYSgv_LfoTTPOIe3r29xLlERcyzBDpr76w=w720-h310-rw"></td>
+  </tr>
+  </table>
