@@ -30,29 +30,19 @@
 
 <h3 align="left">Projects Highlight's</h3>
 <br><br>
-<br>
-<h4>Maa's Kitchen</h4> 
+<h3>Maa's Kitchen</h3> 
 <h5 align="left">(Data coming from WordPress Website https://mamadoskitchen.com/)</h4> 
-
 <img src="https://github.com/hasanabbassorathiya/hasanabbassorathiya/blob/main/maa's%20kitchen.gif">
-
-
 <br><br>
-
 <table>
-  
-  
-  <br>
-<h4>MAMADO ISLAMIC APP</h4> 
-<h5 align="left">(Community app which contains Supplications (can be played Online, Holy Quran, Calender.. etc)</h4>
 <br>
-  <h3> Download Link: </h3>
-  
+<h3>MAMADO ISLAMIC APP</h3> 
+<h5 align="left">(Community app which contains Supplications (can be played Online, Holy Quran, Calender.. etc)</h4>
+<br><h4> Download Link: </h4>
 <h5>  
 Play Store: https://play.google.com/store/apps/details?id=com.mamadoislamic.app
-<br>
-IOS: https://apps.apple.com/in/app/mamado-islamic-app/id1575713386
-  </h5>
+<br><br>
+IOS: https://apps.apple.com/in/app/mamado-islamic-app/id1575713386</h5>
  
 <tr>
     <td><img src="https://is2-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/0f/f3/d6/0ff3d6a4-ca98-fdb1-0cd4-871a63fe1821/bdfb8c0a-5742-4c43-a90c-1b6be2ee4cd4_1-6.5_inch_-_iPhone_XS_Max-screen__1.jpg/230x0w.webp"></td>
@@ -60,17 +50,15 @@ IOS: https://apps.apple.com/in/app/mamado-islamic-app/id1575713386
     <td><img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/e7/46/e3/e746e3db-3c06-6b4e-573c-d33ad3e912df/3d129fc5-ca18-41dc-8bcc-2bf9fe56369f_3-6.5_inch_-_iPhone_XS_Max-screen__3.jpg/230x0w.webp"></td>
   </tr>
   </table>
-
-
-
-  <h4>14 Stars</h4> 
+<br>
+  <h3>14 Stars</h3> 
 <h5 align="left">(Community app which contains Supplications (can be played Online, Holy Quran, Calender.. etc)</h4>
 <br>
-  <h3> Download Link: </h3>
+  <h4> Download Link: </h4>
   
 <h5>  
 Play Store: https://play.google.com/store/apps/details?id=com.zain.stars14
-<br>
+<br><br>
 IOS: https://apps.apple.com/in/app/14-stars/id1526359119
   </h5>
   <br>
