@@ -31,7 +31,7 @@
 <h3 align="left">Projects Highlight's</h3>
 <br><br>
 <h3>Maa's Kitchen</h3> 
-<h5 align="left">(Data coming from WordPress Website https://mamadoskitchen.com/)</h4> 
+<h5 align="left">(recipes coming from WordPress Website https://mamadoskitchen.com/)</h4> 
 <img src="https://github.com/hasanabbassorathiya/hasanabbassorathiya/blob/main/maa's%20kitchen.gif">
 <br><br>
 <table>
