@@ -88,3 +88,26 @@ Play Store: https://play.google.com/store/apps/details?id=app.ksijamat.org
     <td><img src="https://play-lh.googleusercontent.com/KsLZYVOgLGuDsxcNpdN3uX_g2-O4LecOZsYSgv_LfoTTPOIe3r29xLlERcyzBDpr76w=w720-h310-rw"></td>
   </tr>
   </table>
+
+
+
+<br><br>
+
+  <h3>KBM Tours</h3> 
+<h5 align="left">(This Tour App contains  along with English to Persian & Pesian to English Transaltion, Personalities, Supplications, Qibla Finder, Complete Holy Quran and much more )</h4>
+<br>
+  <h3> Download Link: </h3>
+  
+<h5>  
+App Store: https://apps.apple.com/us/app/kbm-tours/id1575694555
+ <br>
+ Google PlayStore: https://play.google.com/store/apps/details?id=com.kbmtours.app
+  </h5>
+  <br>
+   <table>
+<tr>
+    <td><img src="https://is4-ssl.mzstatic.com/image/thumb/PurpleSource125/v4/95/3b/9a/953b9ae4-19a3-1261-90f2-0da16a894b6f/bd23d807-7b3d-45c7-b0c0-fb2390c05dba_1-6.5_inch_-_iPhone_XS_Max-screen__1.jpg/230x0w.webp"></td>
+    <td><img src="https://is5-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/c4/cb/da/c4cbda39-8c9a-cfe6-e1d5-ad6e345fb495/179c9a89-894e-4a81-ae64-0da6036a55c0_2-6.5_inch_-_iPhone_XS_Max-screen__2.jpg/230x0w.webp"></td>
+    <td><img src="https://is5-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/b1/68/cf/b168cf7e-2cee-9da9-e2cf-f6da73c39aef/ee6014eb-a77a-4541-897d-a7eb54b49741_3-6.5_inch_-_iPhone_XS_Max-screen__3.jpg/230x0w.webp"></td>
+  </tr>
+  </table>
