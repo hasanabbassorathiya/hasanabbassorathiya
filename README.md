@@ -111,3 +111,40 @@ App Store: https://apps.apple.com/us/app/kbm-tours/id1575694555
     <td><img src="https://is5-ssl.mzstatic.com/image/thumb/PurpleSource115/v4/b1/68/cf/b168cf7e-2cee-9da9-e2cf-f6da73c39aef/ee6014eb-a77a-4541-897d-a7eb54b49741_3-6.5_inch_-_iPhone_XS_Max-screen__3.jpg/230x0w.webp"></td>
   </tr>
   </table>
+  
+  
+  
+
+
+<br><br>
+
+  <h3>MO Expresss</h3> 
+<h5 align="left">(MO EXPRESS - It is a B2B application for merchant and semi wholesaler.
+The main concept of this application is to connect the small retailer to buy all the product under one umbrella with transparency of price and effective delivery.)</h4>
+<br>
+  <h3> Download Link: </h3>
+  
+<h5>  
+
+ <br>
+ Google PlayStore: https://play.google.com/store/apps/details?id=app.moexpress.tz&hl=en_US&gl=US
+  </h5>
+  <br>
+   <table>
+<tr>
+    <td><img src="https://play-lh.googleusercontent.com/lxCZMNRk0NGdtGvwUWYCeANPyU981LkYWSYXIaloNgiL1gfG7u2X5SVLOhS22RmKqyY=w720-h310-rw"></td>
+    <td><img src="https://play-lh.googleusercontent.com/y5pZxcEndbTP9vqh2cIP9CNpGw8mIXUGybDUILwwnmAjvnYqJzi1h42z397wEMcO=w720-h310-rw"></td>
+ 
+  </tr>
+  </table>
+
+<h4> Youtube Link</h4>
+
+<table>
+ <tr>
+   <td>
+ <img src="https://img.youtube.com/vi/O9jpOdEgEF8/maxresdefault.jpg" width="50%"><br>(https://youtu.be/O9jpOdEgEF8)
+ </td>
+ </tr>
+ </table>
+ 
