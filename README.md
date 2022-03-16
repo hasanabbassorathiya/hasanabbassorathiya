@@ -12,6 +12,9 @@
 - 📫 How to reach me **hasanabbassorathiya@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<br>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="hasanabbassorathiya" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ae.linkedin.com/in/hasanabbassorathiya?trk=profile-badge">HASAN ABBAS SORATHIYA</a></div>
+<br>
 <p align="left">
 <a href="https://linkedin.com/in/hasanabbassorathiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasanabbassorathiya" height="30" width="40" /></a>
 <a href="https://instagram.com/hasanabbassorathiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hasanabbassorathiya" height="30" width="40" /></a>
@@ -30,8 +33,26 @@
 
 <h3 align="left">Projects Highlight's</h3>
 <br><br>
+<h3>News app by Hasan Abbas Sorathiya</h3> 
+News App is made using Flutter & Dart for fetching news from <b><a href="https://newsapi.org/"> NewsApi</a></b>.
+<p align="left">My first open source project
+<b> Link: <a href="https://github.com/hasanabbassorathiya/News_App"> NewsApp Project</a></b> </p>
+<br><br>
+
+
+[![Splash-Screen.png](https://i.postimg.cc/nrQN99J9/Splash-Screen.png)](https://postimg.cc/XB4sTJXn)
+[![All-News.png](https://i.postimg.cc/N0p33wDF/All-News.png)](https://postimg.cc/R3Jptyjx)
+[![Drawer.png](https://i.postimg.cc/mDkvR6pw/Drawer.png)](https://postimg.cc/ZBk7xjSB)
+[![Follow-Us.png](https://i.postimg.cc/yW4tm61Q/Follow-Us.png)](https://postimg.cc/SYdgqhzC)
+[![Loadingwith-Percentage.png](https://i.postimg.cc/Px7BqzBk/Loadingwith-Percentage.png)](https://postimg.cc/R6cPsfSP)
+[![All-News.png](https://i.postimg.cc/N0p33wDF/All-News.png)](https://postimg.cc/R3Jptyjx)
+<br><br>
+
+
+
+
 <h3>Maa's Kitchen</h3> 
-<h5 align="left">(Recipes coming from WordPress Website https://mamadoskitchen.com/)</h4> 
+<h4 align="left">(Recipes coming from WordPress Website https://mamadoskitchen.com/)</h4> 
 <img src="https://github.com/hasanabbassorathiya/hasanabbassorathiya/blob/main/maa's%20kitchen.gif">
 <br><br>
 <table>
