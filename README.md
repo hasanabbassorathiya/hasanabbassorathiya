@@ -12,7 +12,7 @@
 </div>
 
 ### 🚀 Professional Summary
-Senior Software Engineer with 6+ years of experience building and scaling mobile and full-stack applications across e-commerce, mobility, and enterprise platforms. Specialized in **Flutter**, **MERN stack**, and **cloud-native architectures**.
+Senior Software Engineer, 6+ years experience. Building/scaling mobile, full-stack apps. E-commerce, mobility, enterprise. Specialization: **Flutter**, **MERN**, **Cloud architecture**.
 
 ### 🛠️ Tech Stack
 | Domain | Technologies |
@@ -22,17 +22,44 @@ Senior Software Engineer with 6+ years of experience building and scaling mobile
 | **Cloud/DevOps**| AWS (Lambda, ECS), GCP, Docker, Kubernetes, CI/CD |
 | **AI/Auto** | n8n, LLM Integration (RAG), Python |
 
-### 📂 Public Projects
-Here are some of my key open-source contributions:
+---
 
-*   **[News_App](https://github.com/hasanabbassorathiya/News_App)**: A comprehensive news application built with Flutter.
-*   **[Notes-by-Hasan](https://github.com/hasanabbassorathiya/Notes-by-Hasan)**: A Flutter-based note-taking application.
-*   **[flutter_chat_ui](https://github.com/hasanabbassorathiya/flutter_chat_ui)**: A clean chat UI component for Flutter.
-*   **[wefast](https://github.com/hasanabbassorathiya/wefast)**: Flutter-based application project.
-*   **[Mi_Card](https://github.com/hasanabbassorathiya/Mi_Card)**: Digital business card implementation in Flutter.
+## 🧬 Identity Payload
+
+```python
+class SeniorEngineer(BaseModel):
+    name: str = "Hasan Abbas Sorathiya"
+    expertise: str = "Bridging deep AI capabilities with premium mobile experiences"
+
+    focus_areas: List[str] = [
+        "Scalable Mobile Architecture",
+        "Agentic Workflows & Automation",
+        "Cloud-Native Systems",
+        "Full-stack Delivery"
+    ]
+
+    def ship(self) -> str:
+        return "Build beautiful, automated, scalable systems."
+```
 
 ---
-*“I don't just write code — I solve problems, automate the boring stuff, and build systems people love to use.”*
+
+### 📂 Public Projects
+*   **[News_App](https://github.com/hasanabbassorathiya/News_App)**: Flutter news app.
+*   **[Notes-by-Hasan](https://github.com/hasanabbassorathiya/Notes-by-Hasan)**: Flutter note-taking.
+*   **[flutter_chat_ui](https://github.com/hasanabbassorathiya/flutter_chat_ui)**: Chat component.
+
+## 🗺️ Growth Roadmap
+
+```mermaid
+graph TD;
+    A[Current: Flutter Expert] --> B(Automation Architect);
+    B --> C(AI Product Integration);
+    C --> D[Autonomous Systems];
+```
+
+---
+*“I solve problems, automate boring stuff, build systems people love.”*
 
 ## 📈 GitHub Activity & Impact
 
