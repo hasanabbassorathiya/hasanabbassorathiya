@@ -28,3 +28,14 @@ I build high-scale, cross-platform mobile apps and AI-driven automation systems.
 
 ---
 *“I don't just write code — I solve problems, automate the boring stuff, and build systems people love to use.”*
+
+## 📈 GitHub Activity & Impact
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=hasanabbassorathiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanabbassorathiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180"/>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanabbassorathiya&theme=tokyonight&hide_border=true&fire=00F0FF&ring=00F0FF&currStreakLabel=00F0FF)
+
+</div>
