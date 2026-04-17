@@ -5,47 +5,36 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hasan Abbas Sorathiya | Portfolio</title>
     <style>
-        :root { --bg-color: #0d1117; --card-bg: #161b22; --text-color: #c9d1d9; --accent-color: #58a6ff; }
+        :root { --bg: #0d1117; --card: #161b22; --text: #c9d1d9; --accent: #58a6ff; }
         * { box-sizing: border-box; margin: 0; padding: 0; }
-        body { font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: var(--bg-color); color: var(--text-color); line-height: 1.6; }
-        .container { max-width: 1000px; margin: auto; padding: 40px 20px; }
-        header { display: flex; justify-content: space-between; align-items: center; padding-bottom: 20px; border-bottom: 1px solid #30363d; }
-        .nav__logo { font-size: 1.5rem; font-weight: bold; color: var(--accent-color); }
-        .nav__link a { margin-left: 20px; text-decoration: none; color: var(--text-color); }
-        .home { text-align: center; padding: 80px 0; }
-        .home__title { font-size: 3rem; color: var(--accent-color); margin-bottom: 10px; }
-        .section { padding: 40px 0; }
-        h2 { color: var(--accent-color); margin-bottom: 20px; border-bottom: 2px solid #30363d; padding-bottom: 10px; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; }
-        .card { background: var(--card-bg); padding: 25px; border-radius: 12px; border: 1px solid #30363d; }
-        a { color: var(--accent-color); text-decoration: none; font-weight: bold; }
+        body { font-family: 'Inter', -apple-system, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; }
+        .container { max-width: 900px; margin: auto; padding: 40px 20px; }
+        header { text-align: center; padding: 60px 0; }
+        h1 { color: var(--accent); font-size: 3rem; margin-bottom: 10px; }
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }
+        .card { background: var(--card); padding: 25px; border-radius: 12px; border: 1px solid #30363d; }
+        h2 { color: var(--accent); margin: 40px 0 20px; padding-bottom: 10px; border-bottom: 2px solid #30363d; }
+        a { color: var(--accent); text-decoration: none; font-weight: 600; }
+        ul { list-style: none; }
+        li { margin-bottom: 10px; }
     </style>
 </head>
 <body>
     <div class="container">
         <header>
-            <div class="nav__logo">Hasan Abbas Sorathiya</div>
-            <nav class="nav__link">
-                <a href="#home">Home</a>
-                <a href="#about">About</a>
-                <a href="#skills">Skills</a>
-                <a href="#projects">Projects</a>
-                <a href="#contact">Contact</a>
-            </nav>
+            <h1>Hasan Abbas Sorathiya</h1>
+            <p>Senior Software Engineer | Flutter & AI Architecture</p>
+            <p style="margin-top:20px;">
+                <a href="https://flowcv.com/resume/pmesjl0q9sm9" class="button">Download PDF Resume</a>
+            </p>
         </header>
 
-        <section id="home" class="home">
-            <h1 class="home__title">Hasan Abbas Sorathiya</h1>
-            <p>Senior Software Engineer | Flutter & AI Architecture</p>
-            <p style="margin-top:20px;"><a href="https://flowcv.com/resume/pmesjl0q9sm9">Let's Talk</a></p>
+        <section>
+            <h2>Professional Summary</h2>
+            <p>Senior Software Engineer with 6+ years experience building high-scale mobile and full-stack applications. Specialized in Flutter, MERN, and cloud-native architectures.</p>
         </section>
 
-        <section id="about" class="section">
-            <h2>About Me</h2>
-            <p>Senior Software Engineer with 6+ years experience building high-scale mobile and full-stack applications across e-commerce, mobility, and enterprise platforms. Specialized in Flutter, MERN, and cloud-native architectures.</p>
-        </section>
-
-        <section id="experience" class="section">
+        <section>
             <h2>Work Experience</h2>
             <ul>
                 <li><strong>Chalhoub Group</strong> - Senior Software Engineer (Team Lead)</li>
@@ -56,58 +45,35 @@
             </ul>
         </section>
 
-        <section id="services" class="section">
-            <h2>Services</h2>
-            <div class="grid">
-                <div class="card">
-                    <h3>Mobile Development</h3>
-                    <p>High-scale, cross-platform apps using Flutter & Dart.</p>
-                </div>
-                <div class="card">
-                    <h3>Full-stack Backend</h3>
-                    <p>Scalable APIs, Node.js/MERN stack, Cloud infrastructure.</p>
-                </div>
-                <div class="card">
-                    <h3>AI & Automation</h3>
-                    <p>Building LLM-powered workflows & intelligent systems (n8n, Python).</p>
-                </div>
-            </div>
-        </section>
-
-        <section id="skills" class="section">
-            <h2>Skills</h2>
-            <p>Flutter, Dart, Node.js, Express, MongoDB, AWS, Docker, AI (n8n, RAG)</p>
-        </section>
-
-        <section id="blog" class="section">
-            <h2>Latest Insights</h2>
-            <p>Check out my technical articles: <a href="https://razavitrading.com/blog">Visit Blog</a></p>
-        </section>
-
-        <section id="projects" class="section">
+        <section>
             <h2>Recent Projects</h2>
             <div class="grid">
                 <div class="card">
                     <h3>News_App</h3>
-                    <p>Comprehensive news application built with Flutter.</p>
-                    <a href="https://github.com/hasanabbassorathiya/News_App">View Project</a>
+                    <p>Comprehensive news app built with Flutter.</p>
+                    <a href="https://github.com/hasanabbassorathiya/News_App">View</a>
                 </div>
                 <div class="card">
                     <h3>Notes-by-Hasan</h3>
-                    <p>A Flutter-based note-taking application.</p>
-                    <a href="https://github.com/hasanabbassorathiya/Notes-by-Hasan">View Project</a>
+                    <p>Flutter note-taking application.</p>
+                    <a href="https://github.com/hasanabbassorathiya/Notes-by-Hasan">View</a>
                 </div>
                 <div class="card">
                     <h3>flutter_chat_ui</h3>
-                    <p>A clean chat UI component for Flutter.</p>
-                    <a href="https://github.com/hasanabbassorathiya/flutter_chat_ui">View Project</a>
+                    <p>Clean chat UI component for Flutter.</p>
+                    <a href="https://github.com/hasanabbassorathiya/flutter_chat_ui">View</a>
+                </div>
+                <div class="card">
+                    <h3>Mi_Card</h3>
+                    <p>Digital business card in Flutter.</p>
+                    <a href="https://github.com/hasanabbassorathiya/Mi_Card">View</a>
+                </div>
+                <div class="card">
+                    <h3>wefast</h3>
+                    <p>Flutter application project.</p>
+                    <a href="https://github.com/hasanabbassorathiya/wefast">View</a>
                 </div>
             </div>
-        </section>
-
-        <section id="contact" class="section">
-            <h2>Get In Touch</h2>
-            <p>Email: <a href="mailto:hasanabbassorathiya12@gmail.com">hasanabbassorathiya12@gmail.com</a></p>
         </section>
     </div>
 </body>
