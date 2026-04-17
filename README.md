@@ -4,15 +4,15 @@
 
 ---
 
-<div align=center>
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasanabbassorathiya)
 [![Portfolio](https://img.shields.io/badge/View_Resume-FF4500?style=for-the-badge&logo=document&logoColor=white)](https://flowcv.com/resume/pmesjl0q9sm9)
 
 </div>
 
-### 🚀 About Me
-I build high-scale, cross-platform mobile apps and AI-driven automation systems. I specialize in turning complex requirements into clean, scalable architecture. Bridging product vision and tech execution is what I do best.
+### 🚀 Professional Summary
+Senior Software Engineer with 6+ years of experience building and scaling mobile and full-stack applications across e-commerce, mobility, and enterprise platforms. Specialized in **Flutter**, **MERN stack**, and **cloud-native architectures**.
 
 ### 🛠️ Tech Stack
 | Domain | Technologies |
@@ -22,9 +22,14 @@ I build high-scale, cross-platform mobile apps and AI-driven automation systems.
 | **Cloud/DevOps**| AWS (Lambda, ECS), GCP, Docker, Kubernetes, CI/CD |
 | **AI/Auto** | n8n, LLM Integration (RAG), Python |
 
-### 📌 Featured Work
-*   **EVLAB**: E-mobility platform (Flutter + Node).
-*   **AI Automations**: Custom LLM workflows for efficiency.
+### 📂 Public Projects
+Here are some of my key open-source contributions:
+
+*   **[News_App](https://github.com/hasanabbassorathiya/News_App)**: A comprehensive news application built with Flutter.
+*   **[Notes-by-Hasan](https://github.com/hasanabbassorathiya/Notes-by-Hasan)**: A Flutter-based note-taking application.
+*   **[flutter_chat_ui](https://github.com/hasanabbassorathiya/flutter_chat_ui)**: A clean chat UI component for Flutter.
+*   **[wefast](https://github.com/hasanabbassorathiya/wefast)**: Flutter-based application project.
+*   **[Mi_Card](https://github.com/hasanabbassorathiya/Mi_Card)**: Digital business card implementation in Flutter.
 
 ---
 *“I don't just write code — I solve problems, automate the boring stuff, and build systems people love to use.”*
