@@ -5,73 +5,106 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Hasan Abbas Sorathiya | Portfolio</title>
     <style>
-        :root { --bg: #0d1117; --card: #161b22; --text: #c9d1d9; --accent: #58a6ff; }
+        :root { --bg: #0a0a0a; --card: rgba(255, 255, 255, 0.03); --text: #e2e8f0; --accent: #38bdf8; --accent-glow: rgba(56, 189, 248, 0.4); }
         * { box-sizing: border-box; margin: 0; padding: 0; }
-        body { font-family: 'Inter', -apple-system, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; }
-        .container { max-width: 900px; margin: auto; padding: 40px 20px; }
-        header { text-align: center; padding: 60px 0; }
-        h1 { color: var(--accent); font-size: 3rem; margin-bottom: 10px; }
-        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 20px; }
-        .card { background: var(--card); padding: 25px; border-radius: 12px; border: 1px solid #30363d; }
-        h2 { color: var(--accent); margin: 40px 0 20px; padding-bottom: 10px; border-bottom: 2px solid #30363d; }
-        a { color: var(--accent); text-decoration: none; font-weight: 600; }
+        body { font-family: 'Inter', -apple-system, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; overflow-x: hidden; }
+        .container { max-width: 1000px; margin: auto; padding: 40px 20px; }
+
+        /* Animations */
+        @keyframes fadeUp {
+            from { opacity: 0; transform: translateY(40px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .animate { animation: fadeUp 0.8s cubic-bezier(0.16, 1, 0.3, 1) forwards; opacity: 0; }
+        .delay-1 { animation-delay: 0.1s; }
+        .delay-2 { animation-delay: 0.2s; }
+        .delay-3 { animation-delay: 0.3s; }
+
+        header { text-align: center; padding: 100px 0 60px; }
+        h1 { font-size: 4rem; margin-bottom: 15px; letter-spacing: -1.5px; background: linear-gradient(135deg, #38bdf8, #c084fc); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .subtitle { color: #94a3b8; font-size: 1.2rem; font-weight: 400; margin-bottom: 30px; }
+
+        .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px; }
+        .card { background: var(--card); padding: 30px; border-radius: 16px; border: 1px solid rgba(255,255,255,0.08); backdrop-filter: blur(10px); transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1); position: relative; }
+        .card:hover { border-color: var(--accent); transform: translateY(-8px); box-shadow: 0 12px 30px var(--accent-glow); }
+
+        h2 { color: #f8fafc; margin: 80px 0 30px; padding-bottom: 15px; border-bottom: 1px solid rgba(255,255,255,0.1); font-size: 2rem; font-weight: 600; letter-spacing: -0.5px; }
+        h3 { color: #f8fafc; margin-bottom: 10px; font-size: 1.4rem; }
+        p { color: #94a3b8; font-size: 1.05rem; }
+
+        a { color: var(--accent); text-decoration: none; font-weight: 600; transition: all 0.3s ease; }
+        a:hover { color: #818cf8; text-shadow: 0 0 8px var(--accent-glow); }
+
+        .button { display: inline-block; padding: 14px 36px; background: linear-gradient(135deg, #38bdf8, #818cf8); color: #000; border-radius: 50px; font-weight: 700; transition: all 0.3s cubic-bezier(0.16, 1, 0.3, 1); box-shadow: 0 4px 15px var(--accent-glow); }
+        .button:hover { transform: scale(1.05) translateY(-2px); color: #000; box-shadow: 0 8px 25px var(--accent-glow); }
+
         ul { list-style: none; }
-        li { margin-bottom: 10px; }
+        li { margin-bottom: 15px; padding-left: 25px; position: relative; font-size: 1.1rem; color: #94a3b8; }
+        li::before { content: '▹'; position: absolute; left: 0; color: var(--accent); font-weight: bold; font-size: 1.2rem; }
+        li strong { color: #e2e8f0; }
+
+        nav { display: flex; justify-content: center; gap: 30px; margin-top: 30px; }
+        nav a { color: #94a3b8; font-size: 1.1rem; }
+        nav a:hover { color: var(--accent); }
     </style>
 </head>
 <body>
     <div class="container">
-        <header>
+        <header class="animate">
             <h1>Hasan Abbas Sorathiya</h1>
-            <p>Senior Software Engineer | Flutter & AI Architecture</p>
-            <p style="margin-top:20px;">
+            <p class="subtitle">Senior Software Engineer &bull; Flutter Specialist &bull; AI Architecture</p>
+            <nav>
+                <a href="https://github.com/hasanabbassorathiya">GitHub</a>
+                <a href="mailto:hasanabbassorathiya12@gmail.com">Email</a>
+            </nav>
+            <p style="margin-top:40px;">
                 <a href="https://flowcv.com/resume/pmesjl0q9sm9" class="button">Download PDF Resume</a>
             </p>
         </header>
 
-        <section>
+        <section class="animate delay-1">
             <h2>Professional Summary</h2>
             <p>Senior Software Engineer with 6+ years experience building high-scale mobile and full-stack applications. Specialized in Flutter, MERN, and cloud-native architectures.</p>
         </section>
 
-        <section>
+        <section class="animate delay-2">
             <h2>Work Experience</h2>
             <ul>
-                <li><strong>Chalhoub Group</strong> - Senior Software Engineer (Team Lead)</li>
-                <li><strong>Belong Interactive</strong> - Senior Software Engineer (Team Lead)</li>
-                <li><strong>Masaar</strong> - Senior Software Engineer</li>
-                <li><strong>Vervali Systems</strong> - Flutter Team Lead</li>
-                <li><strong>Beedev Solutions</strong> - Senior Flutter Developer</li>
+                <li><strong>Chalhoub Group</strong> — Senior Software Engineer (Team Lead)</li>
+                <li><strong>Belong Interactive</strong> — Senior Software Engineer (Team Lead)</li>
+                <li><strong>Masaar</strong> — Senior Software Engineer</li>
+                <li><strong>Vervali Systems</strong> — Flutter Team Lead</li>
+                <li><strong>Beedev Solutions</strong> — Senior Flutter Developer</li>
             </ul>
         </section>
 
-        <section>
+        <section class="animate delay-3">
             <h2>Recent Projects</h2>
             <div class="grid">
                 <div class="card">
                     <h3>News_App</h3>
                     <p>Comprehensive news app built with Flutter.</p>
-                    <a href="https://github.com/hasanabbassorathiya/News_App">View</a>
+                    <a href="https://github.com/hasanabbassorathiya/News_App" style="display:inline-block; margin-top:15px;">View Repository &rarr;</a>
                 </div>
                 <div class="card">
                     <h3>Notes-by-Hasan</h3>
                     <p>Flutter note-taking application.</p>
-                    <a href="https://github.com/hasanabbassorathiya/Notes-by-Hasan">View</a>
+                    <a href="https://github.com/hasanabbassorathiya/Notes-by-Hasan" style="display:inline-block; margin-top:15px;">View Repository &rarr;</a>
                 </div>
                 <div class="card">
                     <h3>flutter_chat_ui</h3>
                     <p>Clean chat UI component for Flutter.</p>
-                    <a href="https://github.com/hasanabbassorathiya/flutter_chat_ui">View</a>
+                    <a href="https://github.com/hasanabbassorathiya/flutter_chat_ui" style="display:inline-block; margin-top:15px;">View Repository &rarr;</a>
                 </div>
                 <div class="card">
                     <h3>Mi_Card</h3>
                     <p>Digital business card in Flutter.</p>
-                    <a href="https://github.com/hasanabbassorathiya/Mi_Card">View</a>
+                    <a href="https://github.com/hasanabbassorathiya/Mi_Card" style="display:inline-block; margin-top:15px;">View Repository &rarr;</a>
                 </div>
                 <div class="card">
                     <h3>wefast</h3>
                     <p>Flutter application project.</p>
-                    <a href="https://github.com/hasanabbassorathiya/wefast">View</a>
+                    <a href="https://github.com/hasanabbassorathiya/wefast" style="display:inline-block; margin-top:15px;">View Repository &rarr;</a>
                 </div>
             </div>
         </section>
