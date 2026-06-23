@@ -44,11 +44,6 @@ class SeniorEngineer(BaseModel):
 
 ---
 
-### 📂 Public Projects
-*   **[News_App](https://github.com/hasanabbassorathiya/News_App)**: Flutter news app.
-*   **[Notes-by-Hasan](https://github.com/hasanabbassorathiya/Notes-by-Hasan)**: Flutter note-taking.
-*   **[flutter_chat_ui](https://github.com/hasanabbassorathiya/flutter_chat_ui)**: Chat component.
-
 ## 🗺️ Growth Roadmap
 
 ```mermaid
