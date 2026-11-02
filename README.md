@@ -1,68 +1,40 @@
-# Hi there 👋, I'm Hasan Abbas Sorathiya
+# Hasan Abbas Sorathiya
 
-💻 **Senior Software Engineer | Flutter Specialist | AI & Automation Architect**
+**Senior Software & AI Engineer · Flutter / Mobile · AI & Automation**
 
----
+Dubai-based engineer building production mobile products and the AI systems behind them. I work across Flutter/Dart, iOS and Android delivery, secure API integrations, cloud services, LLM applications, RAG, agents, MCP servers, and workflow automation.
 
-<div align="center">
+Open to senior Flutter, mobile engineering lead, AI integration, and full-stack engineering opportunities — including remote roles.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hasanabbassorathiya)
-[![Portfolio](https://img.shields.io/badge/View_Resume-FF4500?style=for-the-badge&logo=document&logoColor=white)](https://flowcv.com/resume/pmesjl0q9sm9)
+## What I ship
 
-</div>
+- **Mobile products:** Flutter, Dart, Clean Architecture, Riverpod/BLoC, performance, testing, CI/CD, App Store and Google Play delivery.
+- **AI systems:** LLM integrations, RAG pipelines, agentic workflows, MCP tools, evaluation, and human-review boundaries.
+- **Backend and cloud:** REST APIs, Node.js, Express, MongoDB, Firebase, AWS, GCP, authentication, and production integrations.
+- **Technical leadership:** architecture decisions, delivery planning, code review, mentoring, release management, and cross-functional execution.
 
-### 🚀 Professional Summary
-Senior Software Engineer, 6+ years experience. Building/scaling mobile, full-stack apps. E-commerce, mobility, enterprise. Specialization: **Flutter**, **MERN**, **Cloud architecture**.
+## Selected public work
 
-### 🛠️ Tech Stack
-| Domain | Technologies |
-| :--- | :--- |
-| **Mobile** | Flutter, Dart, BLoC, Riverpod |
-| **Backend** | Node.js, Express, MongoDB, Firebase |
-| **Cloud/DevOps**| AWS (Lambda, ECS), GCP, Docker, Kubernetes, CI/CD |
-| **AI/Auto** | n8n, LLM Integration (RAG), Python |
+| Project | What it demonstrates |
+| --- | --- |
+| [stoolap_flutter](https://github.com/hasanabbassorathiya/stoolap-flutter) | Pure-Rust embedded SQL for Flutter with MVCC, vector search, and reactive streams. Also published on [pub.dev](https://pub.dev/packages/stoolap_flutter). |
+| [wp-mcp-server](https://github.com/hasanabbassorathiya/wp-mcp-server) | TypeScript MCP server exposing WordPress REST content operations to AI agents. |
+| [bridge-ai-agent](https://github.com/hasanabbassorathiya/bridge-ai-agent) | AI-agent experimentation and integration work. |
+| [duas-crm](https://github.com/hasanabbassorathiya/duas-crm) | Python and SQLite content operations tooling with search and structured workflows. |
+| [Portfolio_by_hasan](https://github.com/hasanabbassorathiya/Portfolio_by_hasan) | Flutter portfolio application with Firebase and edge-database integrations. |
 
----
+## Production background
 
-## 🧬 Identity Payload
+- 7+ years building mobile and software products across fintech, digital lending, enterprise mobility, e-commerce, and consumer platforms.
+- Led mobile delivery for an electric mobility platform at Chalhoub Group.
+- Delivered a digital lending application supporting 50,000+ users across New Zealand.
+- Shipped the Nakheel Marinas mobile application to 15,000+ downloads in its first month.
 
-```python
-class SeniorEngineer(BaseModel):
-    name: str = "Hasan Abbas Sorathiya"
-    expertise: str = "Bridging deep AI capabilities with premium mobile experiences"
+## Links
 
-    focus_areas: List[str] = [
-        "Scalable Mobile Architecture",
-        "Agentic Workflows & Automation",
-        "Cloud-Native Systems",
-        "Full-stack Delivery"
-    ]
+- [Portfolio](https://hasanabbassorathiya.tech)
+- [Resume](https://flowcv.com/resume/pmesjl0q9sm9)
+- [LinkedIn](https://www.linkedin.com/in/hasanabbassorathiya/)
+- [Email](mailto:hasanabbassorathiya12@gmail.com)
 
-    def ship(self) -> str:
-        return "Build beautiful, automated, scalable systems."
-```
-
----
-
-## 🗺️ Growth Roadmap
-
-```mermaid
-graph TD;
-    A[Current: Flutter Expert] --> B(Automation Architect);
-    B --> C(AI Product Integration);
-    C --> D[Autonomous Systems];
-```
-
----
-*“I solve problems, automate boring stuff, build systems people love.”*
-
-## 📈 GitHub Activity & Impact
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=hasanabbassorathiya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github&include_all_commits=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanabbassorathiya&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="180"/>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasanabbassorathiya&theme=tokyonight&hide_border=true&fire=00F0FF&ring=00F0FF&currStreakLabel=00F0FF)
-
-</div>
+> I care about software that keeps working after launch: clear boundaries, observable failures, tested delivery paths, and useful automation.
